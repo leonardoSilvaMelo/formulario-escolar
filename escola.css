@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://etimg.etb2bimg.com/photo/75729614.cms);
+    
+}
+
+h1,h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.informações{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.informações input{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
+
+.pug{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    background-color:white ;
+}
+
+.ok input{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    background-color:white ;
+}
+.ok input:hover{
+    color: white;
+    background-color: rgba(100, 148, 237, 0.521);
+    transition: 0.5s;
+    
+}
